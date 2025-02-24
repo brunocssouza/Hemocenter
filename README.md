@@ -3,6 +3,11 @@
 Hello! You have been hired to develop a blood donor registration system for the Blood Center in your city, using JavaScript and the readline-sync function for data input.
 The program should allow the registration of donors and must contain the following information: name, age, weight, blood type, and the date of the last donation.
 
+## Install dependencies:
+```js
+npm install
+```
+
 When accessing the system, the user should be presented with a menu containing the following options:
 ```markdown
 ===== BLOOD DONOR REGISTRATION SYSTEM =====
